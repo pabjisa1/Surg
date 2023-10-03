@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.8.5",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  },
+  "name": "nisura_self_promote",
+  "version": "1.0.0",
+  "description": "Nisura Self Promote On Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
