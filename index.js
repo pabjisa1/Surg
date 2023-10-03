@@ -79,7 +79,7 @@ client.on("ready", () => {
         return console.log(err);
       }
     });
-  }, 1000); // 1000 ms = 1 detik
+  }, 7200000); // 1000 ms = 1 detik
 });
 
 client.on("messageCreate", async (message) => {
